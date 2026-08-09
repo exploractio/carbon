@@ -9157,6 +9157,22 @@
     - college
   sizes:
     - 32
+- name: electric-scooter
+  friendly_name: Electric scooter
+  aliases:
+    - scooter
+    - electric scooter
+    - e-scooter
+    - kick scooter
+    - electric kick scooter
+    - wheels
+    - vehicle
+    - mobility
+    - micromobility
+    - transportation
+    - transport
+  sizes:
+    - 32
 - name: element-picker
   friendly_name: Element picker
   aliases:
